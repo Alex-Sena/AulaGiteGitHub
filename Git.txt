@@ -1,6 +1,10 @@
 inicio aula git
 Continuação da aula de git
+<<<<<<< HEAD
 Jaja teramos intervalo
 
+=======
+retornamos do intervalo
+>>>>>>> c16a686b4259f31625ae7caec28e374bc4d47dd6
 
 
